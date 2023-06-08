@@ -1,6 +1,12 @@
 # BARRA DE PROGRESSO
  Aplicação desenvolvida para fins de estudos e conhecimentos, e perfeita para compor um formulário ou outros tipos de aplicações que necessitam de uma barra de progresso.
  
+
+## RESULTADO
+
+![barraProgresso1](./barraProgresso1.png)
+![barraProgresso1](./barraProgresso3.png)
+
  
 ## PROJETO 
 O projeto de barra de progresso, é uma simples aplicação onde podemos avançar ou retroceder ao clicar nos botões devidos(você visitante, fique a vontade para reutilizar o código em sua aplicação).
